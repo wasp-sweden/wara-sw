@@ -22,3 +22,4 @@ Software artifacts collected and curated for further software research
 - [Software artefacts repository](https://github.com/castor-software/Software-Artefacts)
 
 ## Github repositories by WASP Software students
+* [VoTE](https://github.com/john-tornblom/VoTE): Formal Verification of Tree Ensembles
