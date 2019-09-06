@@ -18,9 +18,6 @@ Software artifacts collected and curated for further software research
 * [Dataset of diffs](https://github.com/KTH/CodRep-competition/) 50k one-line diffs from 18 open-source projects to study software evolution
 * [Dataset of continuous integration builds](https://zenodo.org/record/2560966) 35+ Millions of Travis jobs
 
-## Resources
-- [Software artefacts repository](https://github.com/castor-software/Software-Artefacts)
-
 ## Github repositories by WASP Software students
 * [VoTE](https://github.com/john-tornblom/VoTE): Formal Verification of Tree Ensembles
 * [MetaDL](https://github.com/lu-cs-sde/metadl): A Datalog extension for program analysis using syntactic patterns
