@@ -21,3 +21,4 @@ Software artifacts collected and curated for further software research
 ## Github repositories by WASP Software students
 * [VoTE](https://github.com/john-tornblom/VoTE): Formal Verification of Tree Ensembles
 * [MetaDL](https://github.com/lu-cs-sde/metadl): A Datalog extension for program analysis using syntactic patterns
+* [JBrainy](https://git.cs.lth.se/noricc/jbrainy): Benchmarking and performance analysis of Java data structures by fuzzing
