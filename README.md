@@ -22,3 +22,4 @@ Software artifacts collected and curated for further software research
 * [VoTE](https://github.com/john-tornblom/VoTE): Formal Verification of Tree Ensembles
 * [MetaDL](https://github.com/lu-cs-sde/metadl): A Datalog extension for program analysis using syntactic patterns
 * [JBrainy](https://git.cs.lth.se/noricc/jbrainy): Benchmarking and performance analysis of Java data structures by fuzzing
+* [Jatte](https://bitbucket.org/jastadd/jatte): A tunable tree editor for integrated DSLs
