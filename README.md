@@ -1,4 +1,4 @@
-# WASP Research Arena for Software
+# WASP Research Arena WARA Software
 
 The WARA for Software is a planned [WASP](http://wasp-sweden.org/) research arena.  Its goals are to
 - Foster collaboration between software technology and software engineering researchers and WASP industrial partners
@@ -23,3 +23,12 @@ Software artifacts collected and curated for further software research
 * [MetaDL](https://github.com/lu-cs-sde/metadl): A Datalog extension for program analysis using syntactic patterns
 * [JBrainy](https://git.cs.lth.se/noricc/jbrainy): Benchmarking and performance analysis of Java data structures by fuzzing
 * [Jatte](https://bitbucket.org/jastadd/jatte): A tunable tree editor for integrated DSLs
+
+## WASP project course
+
+2019
+  * **Enabling Design And Execution of Large Scale Experiments on Maven Central** 
+    * Participants: César Soto Valero (KTH), He Ye (KTH), Joel Scheuner, (Chalmers) Long Zhang (KTH) and Nicolas Harrand (KTH)
+    * Industrial supervisor: Torsten Ek, Combient 
+    * Academic supervisor: Benoit Baudry, KTH
+    * Abstract: In order to develop the software transformations involved in automatic software engineering, large datasets of software artifact containing at the same time artifacts, their sources, as well as build instructions and test are extremely valuable. This work provides data and tooling enabling large scale experiment on 4.2M of Maven Central artifacts.
