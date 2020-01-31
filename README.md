@@ -9,9 +9,13 @@ The WARA for Software is a planned [WASP](http://wasp-sweden.org/) research aren
   - Contributing Open Source software development tools
   - Understanding strengths and limitations of existing tools and processes in the Open Source development process
 
+# WARA infrastructure
+
+* [OVE](https://github.com/Ericsson/ove): Ericsson's OVE system, basis for benchmarking
+
 ## Software Artifacts
 
-Software artifacts collected and curated for further software research 
+Software artifacts collected and curated for further software research
 
 * [Maven Dependency Graph](https://zenodo.org/record/1489120): Snapshot of the whole Maven Central taken on September 6, 2018, stored in a graph database
 * [Static usages of popular Maven APIs](https://zenodo.org/record/2567268): static usages of API elements of any version of the 99 most used maven artifact, by any of its client on Maven Central.
@@ -27,8 +31,14 @@ Software artifacts collected and curated for further software research
 ## WASP project course
 
 2019
-  * **Enabling Design And Execution of Large Scale Experiments on Maven Central** 
+  * **Enabling Design And Execution of Large Scale Experiments on Maven Central**
     * Participants: César Soto Valero (KTH), He Ye (KTH), Joel Scheuner, (Chalmers) Long Zhang (KTH) and Nicolas Harrand (KTH)
-    * Industrial supervisor: Torsten Ek, Combient 
+    * Industrial supervisor: Torsten Ek, Combient
     * Academic supervisor: Benoit Baudry, KTH
     * Abstract: In order to develop the software transformations involved in automatic software engineering, large datasets of software artifact containing at the same time artifacts, their sources, as well as build instructions and test are extremely valuable. This work provides data and tooling enabling large scale experiment on 4.2M of Maven Central artifacts.
+  * **Static Program Analysis for C++ in the WARA for Software**
+    * Participants: Noric Couderc (LU), Alexandru Dura (LU), Claudio Mandrioli (LU)
+    * Industrial supervisor: Baldvin Bern, Axis
+	* Academic supervisor: Christoph Reichenbach, LU
+	* Abstract: Program bugs remain omnipresent. Today, there are many approaches to finding program bugs, with code reviews, unit tests, and program analysis tools being the most commonly used. While code reviews and unit tests are by their nature adapted to the program that they analyse, program analysis tools are typically more general.  In this project, you will develop or extend a static program analysis tool to detect memory errors and/or API contract errors (your choice). Your project will focus on analysing the GStreamer frame- work (which is scheduled for inclusion in the WARA for Software) and may be adapted specifically to GStreamer’s needs.
+
