@@ -1,6 +1,6 @@
 # WASP Research Arena WARA Software
 
-The WARA for Software is a planned [WASP](http://wasp-sweden.org/) research arena.  Its goals are to
+The WARA for Software is a planned [WASP](http://wasp-sweden.org/) research arena for Wallenberg AI, Autonomous Systems and Software Program.  Its goals are to
 - Foster collaboration between software technology and software engineering researchers and WASP industrial partners
 - Provide a research focus for WASP software technology and software engineering researchers
 - Provide resources for software technology and software engineering researchers, especially students
