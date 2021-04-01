@@ -28,6 +28,9 @@ Software artifacts collected and curated for further software research
 * [MetaDL](https://github.com/lu-cs-sde/metadl): A Datalog extension for program analysis using syntactic patterns
 * [JBrainy](https://git.cs.lth.se/noricc/jbrainy): Benchmarking and performance analysis of Java data structures by fuzzing
 * [Jatte](https://bitbucket.org/jastadd/jatte): A tunable tree editor for integrated DSLs
+* [DepAnalyzer](https://github.com/castor-software/depanalyzer): A tool to collect the classes and methods used by a Java application
+* [DepClean](https://github.com/castor-software/depclean): A tool to automatically detect and remove unused dependencies in Maven projects 
+* [JDBL](https://github.com/castor-software/jdbl): A tool to automatically remove unnecessary bytecode from Java applications through dynamic analysis 
 
 ## WASP project course
 
