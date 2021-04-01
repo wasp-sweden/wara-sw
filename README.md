@@ -22,6 +22,7 @@ Software artifacts collected and curated for further software research
 * [Static usages of popular Maven APIs](https://zenodo.org/record/2567268): static usages of API elements of any version of the 99 most used maven artifact, by any of its client on Maven Central.
 * [Dataset of diffs](https://github.com/KTH/CodRep-competition/) 50k one-line diffs from 18 open-source projects to study software evolution
 * [Dataset of continuous integration builds](https://zenodo.org/record/2560966) 35+ Millions of Travis jobs
+* [DUETS](https://github.com/castor-software/Duets) 395 open-source Maven-based libraries and 2,874 clients
 
 ## Github repositories by WASP Software students
 * [VoTE](https://github.com/john-tornblom/VoTE): Formal Verification of Tree Ensembles
